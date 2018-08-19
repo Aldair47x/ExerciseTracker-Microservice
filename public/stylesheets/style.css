@@ -1,23 +1,62 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+.text-red{
+  color : red;
+  font-family: 'Bungee Inline', cursive;
+  font-size: 30px;
+}
+.text-red1{
+  color : red;
+  font-family: 'Bungee Inline', cursive;
+  font-size: 20px;
+}
+.text-yellow{
+  color : yellow;
+  font-family: 'Bungee Inline', cursive;
+  font-size: 30px;
+}
+
+.text-blue{
+  color : blue;
+  font-family: 'Bungee Inline', cursive;
+  font-size: 30px;
+}
+
+.text-description-tittle
+{
+  font-size: 30px;
+  font-family: 'Rochester', cursive;
+  color: black;
+}
+.text-description-tittle1
+{
+  font-size: 38px;
+  font-family: 'Sniglet', cursive;
+  color: black;
+}
+
+.text-description-tittle2
+{
+  font-size: 20px;
+  font-family: 'Sniglet', cursive;
+  color: black;
+}
+
 
 * {
   box-sizing: border-box;
 }
 
-body {
-  font-family:sans-serif;
-  margin: 25px;
-  color: #222;
-  background-color: #f5f5f5;
-}
 
-h1 {
-  font-weight: bold;
-  
-}
 
-.bold {
-  font-weight: bold;
-}
 
 p {
   max-width: 900px;
